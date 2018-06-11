@@ -1,0 +1,25 @@
+{
+  "name": "zadanie_14_5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "babel-standalone": "^6.26.0"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarolinaPirog/zadanie_14_5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarolinaPirog/zadanie_14_5/issues"
+  },
+  "homepage": "https://github.com/KarolinaPirog/zadanie_14_5#readme"
+}
